@@ -1303,3 +1303,18 @@ section {
 
 }
 
+@media (max-width: 600px) {
+
+    .contact-container {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+        width: 100%;
+    }
+
+    .contact-card {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+}
+
