@@ -127,7 +127,7 @@ if (contactForm) {
         );
 
         window.location.href =
-            "mailto:YOUR-EMAIL@gmail.com?subject=" +
+            "mailto:adelekeilesanmi739@gmail.com?subject=" +
             subject +
             "&body=" +
             body;
